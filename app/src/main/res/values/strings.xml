@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimePicker</string>
+
+    <string name="time_text">%1$s : %2$s</string>
+</resources>
